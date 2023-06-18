@@ -2,6 +2,14 @@
 #EXTM3U
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ov.png" group-title="0-HBO juanpablo", JP:HBO XTREME
+http://181.189.243.254:8000/play/a0ov/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png" group-title="01-TV PREMIUM juanpablo", JP:A&E HD
 http://181.189.243.254:8000/play/a0q7/index.m3u8
 
@@ -303,8 +311,6 @@ http://181.189.243.254:8000/play/a0ot/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ov.png" group-title="0-HBO juanpablo", JP:HBO XTREME
-http://181.189.243.254:8000/play/a0ov/index.m3u8
 
 
 
@@ -772,21 +778,17 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="07-DEPORTES juanpablo", JP:TUDN USA
 https://dcs3-live.mp.lura.live:443/server/podserve/7GnqnNT9v6PrtR2j/rendition.m3u8?track=video-5&ts=1686880626&psi=b1aa627393a11b96ce221af46a68c8f8&encp=VTcZW3vn4iHvZ0zC-eGKuw:ZczK4bBcPRUxiEJ6mavG7vRTLe8rER0mIG-tPQAn3-L1BQvDQWdzap2kY0H8PUO_X-SDivJz-If6ILoEqVZauRPILoj4v160oM75uofe2UkMhKX5P9GSciaPMUfIPiFDPIRSQpTWfve50xoPn4mbyAH-DbEbuLHjr5LWTx9q32ON6oX6MCSkXPL0dWkEXn3mbGMHC24iA5xeFw_RUiI_faPtr93H3cRkqkBZBFjWGE_T8G53faQbUHtMH1QlRplajT30Ls56Gwq0Yqm0wmUvYdqdpxWiyqIEEPeoZhxDvbXSYIcPEAUZ1rIhrX0nyhrB8BiDjd_VCSlXjWJlWR2jg96vUOF9p2tL-giEaVuzwUXKopXsKjRzTXDfyBawaFhcvlt-ik869p76BdjxvxsLqNeOvtKJS_mtbzSjPKY08r5GCl2Ny3ZqPQW3mziaB-eI-LtfOVqz-pSgouGz4ToPW3atdBYl4-_6vekfsywMo-PgtWRDSrYiTpL2gipq3-wZhXEU_8DYd0t_MJWV5aLaAsVX5mJ8k6fpupC5N9r79s-DyKOrR3igUiVMtPNC0iVBXrhGaHY1SxT28D_Y-8htVh0MF_aI6dzXz9o3dc6bv9e9oXcKNOxOhsoapEg2I6IdwxI8sDMzoG9s6HRyz9_A6wX7C5l5zwDcZrVzB04fCPg7sbVLFmwm1s0GEAFMmiILqoZ0Dak5XjaSGKSD-dB4Ip0hfyHS6eap1wCww2Admg9R3zuztYLzNBr6ZJzapmddeRhAKeIlXLMfN0QchJA3NBPJZ7Wj94_HnV1LvY2BzXeyMNTRR_7R2neGWMcm-XRbAyb7wFy6ttED-oiMS0XK7poNp6lPVuQJP0g5AZZw_ZKgC95yDgrhebuTHoxWZDaLf_b2N5K5LVOQZg-78e0DKqyoAV4xa09ZVSqp8Rg0Gz3DKFEqVpsYfb49XlD3wBzXUyaiwcGqa1VMxFwM_Q2HzypaAEjs62KYKBbceprW_5u_WtIiwtMZ0b4_NzBUA64m&sid=d9d0a002-94b1-44fa-a493-7105441206d6:TUL
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:FILMRISE ESPAÑOL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/FilmRise.svg/revision/latest/scale-to-width-down/250?cb=20200925212753" group-title="09-PUBLICOS juanpablo", JP:FILMRISE ESPAÑOL
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:MY TIME MOVIE NETWORK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Times_Prime.jpg/revision/latest/scale-to-width-down/300?cb=20210624153517" group-title="09-PUBLICOS juanpablo", JP:MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
@@ -797,29 +799,37 @@ https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:NOSEY ESCANDALOS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Noisey.svg/revision/latest/scale-to-width-down/300?cb=20180202132442" group-title="09-PUBLICOS juanpablo", JP:NOSEY ESCANDALOS
 https://nosey-3-us.plex.wurl.tv:443/4300.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg/revision/latest/scale-to-width-down/300?cb=20191017031407" group-title="09-PUBLICOS juanpablo", JP:RAKUTEN TV
 https://rakuten-romance-2-es.xiaomi.wurl.tv:443/4300.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:AZTECA 7
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Azteca_7_%282007%29.svg/revision/latest/scale-to-width-down/200?cb=20210503215636" group-title="09-PUBLICOS juanpablo", JP:AZTECA 7
 https://mdstrm.com/video/63441aa9aa90f23a5379601a.m3u8?uid=qerXp9roFnsthcC8fMjzDJW5cOi2vzUQ&sid=7eAOP7FjeECfsErpDMp5363tKNVXmpzz&pid=UCOj75t7tBGWxcinayDlyoc4vpkIAdbv&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=369x207&without_cookies=false&listenerid=&dnt=true
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="013-ZONA PICANTE SE RECOMIENDA DISCRECION juanpablo", JP:MIAMI TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Miami_Sol.svg/revision/latest/scale-to-width-down/250?cb=20140708235924" group-title="013-ZONA PICANTE SE RECOMIENDA DISCRECION juanpablo", JP:MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="013-ZONA PICANTE SE RECOMIENDA DISCRECION juanpablo", JP:MIAMI TV MEXICO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Miami_Sol.svg/revision/latest/scale-to-width-down/250?cb=20140708235924" group-title="013-ZONA PICANTE SE RECOMIENDA DISCRECION juanpablo", JP:MIAMI TV MEXICO
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="01-TV PREMIUM juanpablo", JP:CINEMAX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20201205114958" group-title="01-TV PREMIUM juanpablo", JP:CINEMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27980
 
 
@@ -827,33 +837,33 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27980
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="011-MEXICO juanpablo", JP:DE PELICULA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/DP_1999.png/revision/latest/scale-to-width-down/200?cb=20191111064421" group-title="011-MEXICO juanpablo", JP:DE PELICULA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
 
 
-#EXTINF:-1 tvg-logo="" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CIVILIZATION
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest/scale-to-width-down/220?cb=20091112185125" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CIVILIZATION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27985
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/2015_Discovery_theater_HD_logo.svg/revision/latest?cb=20180303033620" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY THEATER
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="011-MEXICO juanpablo", JP:DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/250?cb=20220330053543" group-title="011-MEXICO juanpablo", JP:DISTRITO COMEDIA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="012-ENTRETENIMIENTO juanpablo", JP:EL GOURMET
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="012-ENTRETENIMIENTO juanpablo", JP:EL GOURMET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27994
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="01-TV PREMIUM juanpablo", JP:FOX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Fox_%281994%29.svg/revision/latest/scale-to-width-down/200?cb=20200722000146" group-title="01-TV PREMIUM juanpablo", JP:FOX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28003
 
 
@@ -863,57 +873,56 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28003
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="01-TV PREMIUM juanpablo", JP:FOX CINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/FOX_Premium_Cinema_%282018%29.svg/revision/latest/scale-to-width-down/220?cb=20200508213424" group-title="01-TV PREMIUM juanpablo", JP:FOX CINEMA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28005
 
-#EXTINF:-1 tvg-logo="" group-title="01-TV PREMIUM juanpablo", JP:FOX SERIES
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Fox-series.svg/revision/latest/scale-to-width-down/250?cb=20181224232555" group-title="01-TV PREMIUM juanpablo", JP:FOX SERIES
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28007
 
-#EXTINF:-1 tvg-logo="" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 
 
-#EXTINF:-1 tvg-logo="" group-title="012-ENTRETENIMIENTO juanpablo", JP:GLITZ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/220?cb=20160817080029" group-title="012-ENTRETENIMIENTO juanpablo", JP:GLITZ
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28014
 
 
-#EXTINF:-1 tvg-logo="" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Nat_Geo_Wild_2007.svg/revision/latest/scale-to-width-down/200?cb=20171130183925" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO WILD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28025
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TV MAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Tvmas2.png/revision/latest/scale-to-width-down/200?cb=20211123015604" group-title="09-PUBLICOS juanpablo", JP:TV MAS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28042
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="012-ENTRETENIMIENTO juanpablo", JP:FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/200?cb=20210615015237" group-title="012-ENTRETENIMIENTO juanpablo", JP:FOOD NETWORK
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28062
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="012-ENTRETENIMIENTO juanpablo", JP:GARAGE TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Sin_t%C3%ADtulo_5.png/revision/latest/scale-to-width-down/250?cb=20200913211333" group-title="012-ENTRETENIMIENTO juanpablo", JP:GARAGE TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28070
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:WESTERN PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:WESTERN PLUTO TV
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:EMPENOS A LO BESTIA PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:EMPENOS A LO BESTIA PLUTO TV
 https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:CINE ACCION PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:CINE ACCION PLUTO TV
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:MINUTO PARA GANAR PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:MINUTO PARA GANAR PLUTO TV
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:COMPETENCIAS PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:COMPETENCIAS PLUTO TV
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:STAR TREK PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Pluto_TV_2020.svg/revision/latest/scale-to-width-down/300?cb=20200304081733" group-title="09-PUBLICOS juanpablo", JP:STAR TREK PLUTO TV
 https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
