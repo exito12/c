@@ -800,7 +800,7 @@ https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:NOSEY ESCANDALOS
 https://nosey-3-us.plex.wurl.tv:443/4300.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:RAKUTEN TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg/revision/latest/scale-to-width-down/300?cb=20191017031407" group-title="09-PUBLICOS juanpablo", JP:RAKUTEN TV
 https://rakuten-romance-2-es.xiaomi.wurl.tv:443/4300.m3u8
 
 
