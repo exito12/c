@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1501b86df311ec17bcc3056e6e1602f2c0c192153332e9325714e14263893c93.png" group-title="09-PUBLICOS juanpablo", JP:RUN TIME TERROR
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
@@ -470,7 +472,7 @@ http://181.189.243.254:8000/play/a0pl/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" #EXTINF:-1 tvg-logo="" group-title="08-MUSICA juanpablo", JP:MTV
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" #EXTINF:-1 tvg-logo=" group-title="08-MUSICA juanpablo", JP:MTV
 http://181.189.243.254:8000/play/a0pz/index.m3u8
 
 
@@ -483,8 +485,16 @@ http://181.189.243.254:8000/play/a0pn/index.m3u8
 http://181.189.243.254:8000/play/a0rg/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/250?cb=20230607080834" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/250?cb=20230607080834" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
+
+
+
 
 
 
