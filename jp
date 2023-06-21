@@ -1,6 +1,15 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/DP_1999.png/revision/latest/scale-to-width-down/200?cb=20191111064421" group-title="011-MEXICO juanpablo", JP:DE PELICULA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/250?cb=20220330053543" group-title="011-MEXICO juanpablo", JP:DISTRITO COMEDIA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
+
+
+
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/telesur.png" group-title="06-NOTICIAS juanpablo", JP:TELESUR
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43554
 
@@ -52,9 +61,6 @@ http://181.189.243.254:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="01-TV PREMIUM juanpablo", JP:AXN
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27972
 
-
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qe.png" group-title="011-MEXICO juanpablo", JP:AZ CLICK HD
-http://181.189.243.254:8000/play/a0qe/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q4.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
@@ -130,7 +136,8 @@ http://181.189.243.254:8000/play/a0on/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logo-de-discovery-channel-en-una-ilustraci%C3%B3n-vectorial-pantalla-tv-bucarest-rumania-enero-208153116.jpg" group-title="03-ESPAÑA juanpablo", JP:DISCOVERY CHANNEL ESPANA SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48795
 
 
 
@@ -159,7 +166,7 @@ http://181.189.243.254:8000/play/a0sr/index.m3u8
 http://181.189.243.254:8000/play/a0tb/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logo-de-discovery-channel-en-una-ilustraci%C3%B3n-vectorial-pantalla-tv-bucarest-rumania-enero-208153116.jpg" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL ESPAÑA SD
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logo-de-discovery-channel-en-una-ilustraci%C3%B3n-vectorial-pantalla-tv-bucarest-rumania-enero-208153116.jpg" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL ESPANA SD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48795
 
 
@@ -461,7 +468,7 @@ http://181.189.243.254:8000/play/a0pz/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/250?cb=20230607080834" #EXTINF:-1 tvg-logo="" group-title="08-MUSICA juanpablo", JP:MTV EXITOS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/250?cb=20230607080834" group-title="08-MUSICA juanpablo", JP:MTV EXITOS
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 
 
@@ -469,7 +476,7 @@ http://181.189.243.254:8000/play/a0pn/index.m3u8
 http://181.189.243.254:8000/play/a0rg/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MTV_Logo_1981.svg/revision/latest/scale-to-width-down/250?cb=20210730182659" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest/scale-to-width-down/250?cb=20230607080834", JP:MTV ACAPULCO SHORE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
 
 
@@ -907,9 +914,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/28
 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/DP_1999.png/revision/latest/scale-to-width-down/200?cb=20191111064421" group-title="011-MEXICO juanpablo", JP:DE PELICULA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
+ 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest/scale-to-width-down/220?cb=20091112185125" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CIVILIZATION
@@ -925,8 +930,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/250?cb=20220330053543" group-title="011-MEXICO juanpablo", JP:DISTRITO COMEDIA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
+
 
 
 
@@ -1006,12 +1010,12 @@ https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Minuto_para_Ganar.jpg/revision/latest/scale-to-width-down/250?cb=20161101081639" group-title="09-PUBLICOS juanpablo", JP:MINUTO PARA GANAR PLUTO TV
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/02-Pluto_TV_App_Logo_Color.png/revision/latest/scale-to-width-down/150?cb=20200318034320"09-PUBLICOS juanpablo", JP:COMPETENCIAS PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/02-Pluto_TV_App_Logo_Color.png/revision/latest/scale-to-width-down/150?cb=20200318034320" group-title="09-PUBLICOS juanpablo", JP:COMPETENCIAS PLUTO TV
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png" group-title="09-PUBLICOS juanpablo", JP:STAR TREK PLUTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Star_Trek_45th.png/revision/latest/scale-to-width-down/300?cb=20201002100735" group-title="09-PUBLICOS juanpablo", JP:STAR TREK PLUTO TV
 https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
 
 
@@ -1037,6 +1041,8 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/136040
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303687
 
 
 
@@ -1045,8 +1051,6 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/136040
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/136048
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/DMAX_Spain.svg/revision/latest?cb=20181002165757" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303687
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
@@ -1060,12 +1064,12 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/136083
 
 
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" group-title="010-VENEZUELA juanpablo", JP:TELEVEN
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TELEVEN
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
 
 
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/venevision.png" group-title="010-VENEZUELA juanpablo", JP:VENEVISION HD
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/venevision.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:VENEVISION HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43554
 
 
